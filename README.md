@@ -1,1 +1,1 @@
-# Repositório com todos os códigos desenvolvidos durantes as aulas de Processamento de Linguagem Natural.
+# Repositório com todos os códigos desenvolvidos durante as aulas de Processamento de Linguagem Natural.
